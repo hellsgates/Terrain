@@ -1,2 +1,2 @@
 Fullstack Campgrounds App
-HTML / CSS / Bootstrap / JS / nodeJS / Express / MongoDB
+HTML / CSS / Bootstrap / JS / NodeJS / Express / MongoDB
